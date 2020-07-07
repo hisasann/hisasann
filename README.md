@@ -6,8 +6,10 @@ Yoshiyuki Hisamatsu--@hisasann
 Features
 ---
 
-Contribute
+Podcast
 ---
+
+[Sour & Lemon Inc. - YouTube](https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA)
 
 Get in touch
 ---
