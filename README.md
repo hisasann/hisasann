@@ -1,4 +1,6 @@
-Yoshiyuki Hisamatsu - @hisasann
+🍋
+
+Yoshiyuki Hisamatsu--@hisasann
 ========
 
 Features
@@ -6,3 +8,9 @@ Features
 
 Contribute
 ---
+
+Get in touch
+---
+
+- [github/hisasann](https://github.com/hisasann)
+- [twitter/hisasann](https://twitter.com/hisasann)
