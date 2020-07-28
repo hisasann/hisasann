@@ -3,6 +3,10 @@
 Yoshiyuki Hisamatsu--@hisasann
 ========
 
+Note
+---
+[ひささん｜note](https://note.com/hisasann)
+
 Podcast
 ---
 
