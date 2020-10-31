@@ -13,6 +13,10 @@ Note
 ---
 [ひささん｜note](https://note.com/hisasann)
 
+Zenn
+---
+[Yoshiyuki Hisamatsu | Zenn](https://zenn.dev/hisasann)
+
 Podcast
 ---
 
