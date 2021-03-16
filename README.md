@@ -3,8 +3,7 @@
 Yoshiyuki Hisamatsu--@hisasann
 ========
 
-
-![IMG_2956](https://user-images.githubusercontent.com/64143/111326221-b93b4480-86af-11eb-87bb-5f25fe3b8979.jpg)
+![IMG_2956-min](https://user-images.githubusercontent.com/64143/111327605-dde3ec00-86b0-11eb-9640-f9d3f1fc524a.jpg)
 
 Note
 ---
