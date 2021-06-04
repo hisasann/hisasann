@@ -1,6 +1,6 @@
 🍋
 
-[![hisasann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hisaasnn)](https://github.com/hisasann/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hisasann)](https://github.com/anuraghazra/github-readme-stats)
 
 Yoshiyuki Hisamatsu--@hisasann
 ========
