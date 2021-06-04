@@ -2,19 +2,6 @@ Yoshiyuki Hisamatsu--@hisasann
 ========
 🍋
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hisasann&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisasann" />
-  </a>
-</p>
-
-<hr>
-<br />
-
-
 Note
 ---
 [ひささん｜note](https://note.com/hisasann)
@@ -35,3 +22,12 @@ Get in touch
 - [twitter/hisasann](https://twitter.com/hisasann)
 - [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
 - [hisasann a.k.a DJ lemon-Sour](https://hisasann.dev/)
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hisasann&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisasann" />
+  </a>
+</p>
