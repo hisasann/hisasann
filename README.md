@@ -1,6 +1,8 @@
-Yoshiyuki Hisamatsu--@hisasann
-========
-🍜
+# Yoshiyuki Hisamatsu
+
+## Sour & Lemon, Inc. CTO 
+
+---
 
 <p>
   <span><img width="300" src="https://user-images.githubusercontent.com/64143/120816026-5741fb00-c58b-11eb-99df-f043c83fb642.jpg" /></span>
@@ -19,6 +21,10 @@ Podcast
 ---
 
 [Sour & Lemon Inc. - YouTube](https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA)
+
+YouTube
+---
+[DJ lemon-Sour - YouTube](https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA)
 
 Get in touch
 ---
