@@ -4,11 +4,6 @@
 
 ---
 
-<p>
-  <span><img width="300" src="https://user-images.githubusercontent.com/64143/120816026-5741fb00-c58b-11eb-99df-f043c83fb642.jpg" /></span>
-  <span><img width="300" src="https://user-images.githubusercontent.com/64143/120816701-f666f280-c58b-11eb-99c0-100152a779f8.JPG" /></span>
-</p>
-
 Note
 ---
 [ひささん｜note](https://note.com/hisasann)
