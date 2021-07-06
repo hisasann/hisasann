@@ -1,6 +1,6 @@
 # Yoshiyuki Hisamatsu
 
-## Sour & Lemon, Inc. CTO 
+## Sour & Lemon, Inc. CTO 🍋
 
 ---
 
