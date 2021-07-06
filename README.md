@@ -21,6 +21,10 @@ YouTube
 ---
 [DJ lemon-Sour - YouTube](https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA)
 
+Essay
+---
+[ミックスナッツは高いほうがいい](https://essay.hisasann.dev/)
+
 Get in touch
 ---
 
