@@ -2,8 +2,6 @@
 
 ## Sour & Lemon, Inc. CTO 🍋
 
----
-
 Note
 ---
 [ひささん｜note](https://note.com/hisasann)
