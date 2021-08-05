@@ -11,8 +11,6 @@
 <a href="https://zenn.dev/hisasann" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 </p>
 
-## Sour & Lemon, Inc. CTO 🍋
-
 Note
 ---
 [ひささん｜note](https://note.com/hisasann)
