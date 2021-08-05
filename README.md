@@ -33,24 +33,23 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-Note
----
+### Note
+
 [ひささん｜note](https://note.com/hisasann)
 
-Podcast
----
+### Podcast
+
 [Sour & Lemon Inc. - YouTube](https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA)
 
-YouTube
----
+### YouTube
+
 [DJ lemon-Sour - YouTube](https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA)
 
-Essay
----
+### Essay
+
 [ミックスナッツは高いほうがいい](https://essay.hisasann.dev/)
 
-Get in touch
----
+### Get in touch
 
 - [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
 - [hisasann a.k.a DJ lemon-Sour](https://hisasann.dev/)
