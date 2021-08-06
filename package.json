@@ -1,0 +1,14 @@
+{
+  "name": "hisasann",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hisasann/hisasann.git",
+  "author": "hisamatsu yoshiyuki <hisasann25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.2.0"
+  }
+}
