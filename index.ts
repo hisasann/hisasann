@@ -3,7 +3,7 @@
  * https://github.com/thmsgbrt/thmsgbrt
  */
 
-import Mustache from 'mustache';
+import * as Mustache from 'mustache';
 import fetch from 'node-fetch';
 import * as fs from 'fs';
 import puppeteerService from './services/puppeteer.service';

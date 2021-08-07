@@ -1,4 +1,8 @@
 "use strict";
+/*
+ * Thanks!
+ * https://github.com/thmsgbrt/thmsgbrt
+ */
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -36,7 +40,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 exports.__esModule = true;
-var mustache_1 = require("mustache");
+var Mustache = require("mustache");
 var fs = require("fs");
 var puppeteer_service_1 = require("./services/puppeteer.service");
 var MUSTACHE_MAIN_DIR = './main.mustache';
@@ -68,7 +72,7 @@ function generateReadMe() {
                 case 0: return [4 /*yield*/, fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
                         if (err)
                             throw err;
-                        var output = mustache_1["default"].render(data.toString(), DATA);
+                        var output = Mustache.render(data.toString(), DATA);
                         fs.writeFileSync('README.md', output);
                     })];
                 case 1:
