@@ -1,3 +1,8 @@
+/*
+ * Thanks!
+ * https://github.com/thmsgbrt/thmsgbrt
+ */
+
 import Mustache from 'mustache';
 import fetch from 'node-fetch';
 import * as fs from 'fs';
