@@ -33,26 +33,33 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### Note
+<h3>Note</h3>
+<p>
+<a href="https://note.com/hisasann" target="_blank">ひささん｜note</a>
+</p>
 
-[ひささん｜note](https://note.com/hisasann)
+<h3>Podcast</h3>
+<p>
+<a href="https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA" target="_blank">Sour & Lemon Inc. - YouTube</a>
+</p>
 
-### Podcast
+<h3>YouTube</h3>
+<p>
+<a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
+</p>
 
-[Sour & Lemon Inc. - YouTube](https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA)
+<h3>Essay</h3>
+<p>
+<a href="https://essay.hisasann.dev/" target="_blank">ミックスナッツは高いほうがいい</a>
+</p>
 
-### YouTube
-
-[DJ lemon-Sour - YouTube](https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA)
-
-### Essay
-
-[ミックスナッツは高いほうがいい](https://essay.hisasann.dev/)
-
-### Get in touch
-
-- [DJ lemon-Sour's diary (prod.hisasann)](https://hisasann.github.io/)
-- [hisasann a.k.a DJ lemon-Sour](https://hisasann.dev/)
+<h3>Get in touch</h3>
+<p>
+<a href="https://essay.hisasann.dev/" target="_blank">DJ lemon-Sour's diary (prod.hisasann)</a>
+</p>
+<p>
+<a href="https://hisasann.dev/" target="_blank">hisasann a.k.a DJ lemon-Sour</a>
+</p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
