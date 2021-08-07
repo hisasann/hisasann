@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "tsc": "tsc index.ts",
-    "build": "ts-node index.ts"
+    "build": "ts-node index.ts",
+    "lint": "eslint . --ext .ts,.tsx"
   },
   "main": "index.js",
   "repository": "git@github.com:hisasann/hisasann.git",
@@ -21,6 +22,9 @@
     "@types/node": "^16.4.13",
     "@types/node-fetch": "^2.5.12",
     "@types/puppeteer": "^5.4.4",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
     "prettier": "^2.3.2",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
