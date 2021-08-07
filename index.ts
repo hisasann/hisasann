@@ -4,7 +4,7 @@
  */
 
 import * as Mustache from 'mustache';
-import fetch from 'node-fetch';
+//import fetch from 'node-fetch';
 import * as fs from 'fs';
 import puppeteerService from './services/puppeteer.service';
 
@@ -16,7 +16,7 @@ type DATA_TYPE = {
   img3: string;
 }
 
-let DATA: DATA_TYPE = {
+const DATA: DATA_TYPE = {
   img1: '',
   img2: '',
   img3: '',
