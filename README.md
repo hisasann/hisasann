@@ -2,6 +2,42 @@
 
 <p>Welcome to my page! </br> I'm Yoshiyuki Hisamatsu, Software developer from <img src="https://image.flaticon.com/icons/png/128/323/323308.png" width="13"/> <b>Tokyo, Japan</b>.
 
+<h3>Note, Blog, Podcast、YouTube、Essay、etc...</h3>
+<details>
+<summary>各種サービスへのリンク</summary>
+<h3>Note</h3>
+<p>
+<a href="https://note.com/hisasann" target="_blank">ひささん｜note</a>
+</p>
+
+<h3>Podcast</h3>
+<p>
+<a href="https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA" target="_blank">Sour & Lemon Inc. - YouTube</a>
+</p>
+
+<h3>YouTube</h3>
+<p>
+<a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
+</p>
+
+<h3>Essay</h3>
+<p>
+<a href="https://essay.hisasann.dev/" target="_blank">ミックスナッツは高いほうがいい</a>
+</p>
+
+<h3>Get in touch</h3>
+<p>
+<a href="https://essay.hisasann.dev/" target="_blank">DJ lemon-Sour's diary (prod.hisasann)</a>
+</p>
+<p>
+<a href="https://hisasann.dev/" target="_blank">hisasann a.k.a DJ lemon-Sour</a>
+</p>
+
+<h3>Instagram</h3>
+<p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc239.0.962.962a%7C%7Cs640x640%7C%7C247138038_595410384977506_8599657125884225325_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DjdaUJHQiSFQAX9vE-AR%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D5a423ad5b319e664be52334934a5ebb0%26oe%3D6178F2A8%26_nc_sid%3De7738c" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C245547609_959672091288272_7998501505668896443_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DTa1KbQVH54cAX_dNI9O%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D2b5c756d1ecb32ad281fb64f547ce194%26oe%3D617A30BB%26_nc_sid%3De7738c" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C245414826_594982548411902_4541459536764823919_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D-jbXci8G9VEAX_O_4H6%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Df9db411eb990bf673d6f701b7dbbd70e%26oe%3D617A9506%26_nc_sid%3De7738c" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/hisasann/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@hisasann!</a>.</p>
+</details>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/hisasann" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -54,42 +90,6 @@
     </tr>
   </tbody>
 </table>
-
-<h3>Note, Blog, Podcast、YouTube、Essay、etc...</h3>
-<details>
-<summary>各種サービスへのリンク</summary>
-<h3>Note</h3>
-<p>
-<a href="https://note.com/hisasann" target="_blank">ひささん｜note</a>
-</p>
-
-<h3>Podcast</h3>
-<p>
-<a href="https://www.youtube.com/channel/UCcB8jQpBT_r9T1XUkc9WgrA" target="_blank">Sour & Lemon Inc. - YouTube</a>
-</p>
-
-<h3>YouTube</h3>
-<p>
-<a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
-</p>
-
-<h3>Essay</h3>
-<p>
-<a href="https://essay.hisasann.dev/" target="_blank">ミックスナッツは高いほうがいい</a>
-</p>
-
-<h3>Get in touch</h3>
-<p>
-<a href="https://essay.hisasann.dev/" target="_blank">DJ lemon-Sour's diary (prod.hisasann)</a>
-</p>
-<p>
-<a href="https://hisasann.dev/" target="_blank">hisasann a.k.a DJ lemon-Sour</a>
-</p>
-
-<h3>Instagram</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc239.0.962.962a%7C%7Cs640x640%7C%7C247138038_595410384977506_8599657125884225325_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DjdaUJHQiSFQAX9vE-AR%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D5a423ad5b319e664be52334934a5ebb0%26oe%3D6178F2A8%26_nc_sid%3De7738c" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C245547609_959672091288272_7998501505668896443_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DTa1KbQVH54cAX_dNI9O%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3D2b5c756d1ecb32ad281fb64f547ce194%26oe%3D617A30BB%26_nc_sid%3De7738c" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C245414826_594982548411902_4541459536764823919_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D-jbXci8G9VEAX_O_4H6%26edm%3DAAWvnRQBAAAA%26ccb%3D7-4%26oh%3Df9db411eb990bf673d6f701b7dbbd70e%26oe%3D617A9506%26_nc_sid%3De7738c" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/hisasann/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@hisasann!</a>.</p>
-</details>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
