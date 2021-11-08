@@ -1,0 +1,51 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+    schedule:
+      - cron: '0 */3 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    strategy:
+      matrix:
+        node-version: [14]
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Display version of Node.js, npm, Yarn
+        run: |
+          node -v
+          npm -v
+          yarn --version
+
+      - name: Get yarn cache
+        id: yarn-cache
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+      - uses: actions/cache@v2
+        with:
+          path: ${{ steps.yarn-cache.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+            - uses: actions/cache@v2
+              with:
+                path: node_modules
+                key: ${{ runner.os }}-yarn-${{ hashFiles('yarn.lock') }}
+      - run: yarn
+
+      - name: Generate README file
+        run: yarn build
+
+      - name: Push new README.md
+        uses: hisasann/simple-github-auto-push@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
