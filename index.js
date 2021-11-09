@@ -41,20 +41,24 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 exports.__esModule = true;
 var Mustache = require("mustache");
+// import fetch from 'node-fetch';
 var fs = require("fs");
 var puppeteer_service_1 = require("./services/puppeteer.service");
+// mustache のテンプレートファイル
 var MUSTACHE_MAIN_DIR = './main.mustache';
+// mustache のリテラルに渡すデータ
 var DATA = {
     img1: '',
     img2: '',
     img3: ''
 };
-function setInstagramPosts() {
+// instagram のポストを取得する
+function setInstagramPosts(count) {
     return __awaiter(this, void 0, void 0, function () {
         var instagramImages;
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, puppeteer_service_1["default"].getLatestInstagramPostsFromAccount('hisasann', 3)];
+                case 0: return [4 /*yield*/, puppeteer_service_1["default"].getLatestInstagramPostsFromAccount('hisasann', count)];
                 case 1:
                     instagramImages = _a.sent();
                     DATA.img1 = instagramImages[0];
@@ -65,15 +69,19 @@ function setInstagramPosts() {
         });
     });
 }
+// README をジェネレートする
 function generateReadMe() {
     return __awaiter(this, void 0, void 0, function () {
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
-                        if (err)
-                            throw err;
-                        var output = Mustache.render(data.toString(), DATA);
-                        fs.writeFileSync('README.md', output);
+                case 0: return [4 /*yield*/, new Promise(function (resolve) {
+                        fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
+                            if (err)
+                                throw err;
+                            var output = Mustache.render(data.toString(), DATA);
+                            fs.writeFileSync('README.md', output);
+                            resolve();
+                        });
                     })];
                 case 1:
                     _a.sent();
@@ -90,7 +98,7 @@ function action() {
                 /**
                  * Get pictures
                  */
-                return [4 /*yield*/, setInstagramPosts()];
+                return [4 /*yield*/, setInstagramPosts(3)];
                 case 1:
                     /**
                      * Get pictures

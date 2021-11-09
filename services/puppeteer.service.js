@@ -124,45 +124,36 @@ var PuppeteerService = /** @class */ (function () {
      */
     PuppeteerService.prototype.getLatestInstagramPostsFromAccount = function (acc, n) {
         return __awaiter(this, void 0, void 0, function () {
-            var page, previousHeight, nodes, error_1;
+            var page, nodes, error_1;
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
-                        page = "https://www.picuki.com/profile/" + acc;
+                        _a.trys.push([0, 5, , 6]);
+                        page = "https://dumpor.com/v/" + acc;
                         return [4 /*yield*/, this.goToPage(page)];
                     case 1:
                         _a.sent();
-                        _a.label = 2;
-                    case 2:
-                        _a.trys.push([2, 7, , 8]);
-                        return [4 /*yield*/, this.page.evaluate("document.body.scrollHeight")];
-                    case 3:
-                        previousHeight = _a.sent();
                         return [4 /*yield*/, this.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")];
-                    case 4:
+                    case 2:
                         _a.sent();
-                        // 🔽 Doesn't seem to be needed
-                        // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
                         return [4 /*yield*/, this.page.waitFor(1000)];
-                    case 5:
-                        // 🔽 Doesn't seem to be needed
-                        // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+                    case 3:
                         _a.sent();
                         return [4 /*yield*/, this.page.evaluate(function () {
-                                var images = document.querySelectorAll(".post-image");
+                                var images = document.querySelectorAll(".content__img");
                                 return [].map.call(images, function (img) {
                                     return img.src;
                                 });
                             })];
-                    case 6:
+                    case 4:
                         nodes = _a.sent();
-                        return [2 /*return*/, nodes.slice(0, 3)];
-                    case 7:
+                        return [2 /*return*/, nodes.slice(0, n)];
+                    case 5:
                         error_1 = _a.sent();
                         console.log('Error', error_1);
                         process.exit();
-                        return [3 /*break*/, 8];
-                    case 8: return [2 /*return*/];
+                        return [3 /*break*/, 6];
+                    case 6: return [2 /*return*/];
                 }
             });
         });
