@@ -9,7 +9,7 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
   ],
   rules: {
-    '@typescript-eslint/no-explicit-any': 0,
-    '@typescript-eslint/no-unused-vars': 0,
+    '@typescript-eslint/no-explicit-any': 'off',
+    '@typescript-eslint/no-unused-vars': 'off',
   }
 };
