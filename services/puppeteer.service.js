@@ -129,7 +129,7 @@ var PuppeteerService = /** @class */ (function () {
                 switch (_a.label) {
                     case 0:
                         _a.trys.push([0, 5, , 6]);
-                        page = "https://dumpor.com/v/" + acc;
+                        page = "https://dumpor.com/v/".concat(acc);
                         return [4 /*yield*/, this.goToPage(page)];
                     case 1:
                         _a.sent();
