@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Yoshiyuki Hisamatsu, Software developer from <img src="https://image.flaticon.com/icons/png/128/323/323308.png" width="13"/> <b>Tokyo, Japan</b>.
+<p>Welcome to my page! </br> I'm Yoshiyuki Hisamatsu, Software developer from <b>Tokyo, Japan</b>.
 
 <h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3>
 <details>
