@@ -4,7 +4,7 @@
 
 <h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3>
 <details>
-<summary>各種サービスへのリンク</summary>
+<!-- <summary>各種サービスへのリンク</summary> -->
 <h3>Note</h3>
 <p>
 <a href="https://note.com/hisasann" target="_blank">ひささん｜note</a>
