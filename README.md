@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Yoshiyuki Hisamatsu, Software developer from <b>Tokyo, Japan</b>.
 
 <h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3>
-<details>
+<!-- <details> -->
 <!-- <summary>各種サービスへのリンク</summary> -->
 <h3>Note</h3>
 <p>
@@ -32,7 +32,7 @@
 <p>
 <a href="https://hisasann.dev/" target="_blank">hisasann a.k.a DJ lemon-Sour</a>
 </p>
-</details>
+<!-- </details> -->
 
 <h3>Where to find me</h3>
 <p>
