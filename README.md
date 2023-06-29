@@ -5,6 +5,13 @@
 <!-- <h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3> -->
 <!-- <details> -->
 <!-- <summary>各種サービスへのリンク</summary> -->
+
+<h3>Diary</h3>
+<p>
+<a href="https://dialy.hisasann.dev/" target="_blank">日々の記録</a>
+<a href="https://www.notion.so/hisasann/4b3ac4a874724e20ab7d5b87edd9af22?v=f783121b5c074b72bff893c7cda511da&pvs=4" target="_blank">notion版</a>
+</p>
+
 <h3>Note</h3>
 <p>
 <a href="https://note.com/hisasann" target="_blank">ひささん｜note</a>
@@ -18,6 +25,7 @@
 <h3>YouTube</h3>
 <p>
 <a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
+[![How to my coding style using Neovim, tmux, iTerm2 with fish](http://img.youtube.com/vi/gsc0Mw8y-cY/0.jpg)](https://www.youtube.com/watch?v=gsc0Mw8y-cY)
 </p>
 
 <h3>Essay</h3>
