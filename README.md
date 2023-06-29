@@ -27,9 +27,11 @@
 <a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
 
 <h4>How to my coding style using Neovim, tmux, iTerm2 with fish</h4>
+
 [![](https://img.youtube.com/vi/gsc0Mw8y-cY/0.jpg)](https://www.youtube.com/watch?v=gsc0Mw8y-cY)
 
 <h4>Neovideのカーソル移動 | Smooth cursor movement on Neovide (Neovim)</h4>
+
 [![](https://img.youtube.com/vi/uMtfl6vpT-Q/0.jpg)](https://www.youtube.com/watch?v=uMtfl6vpT-Q)
 </p>
 
