@@ -25,7 +25,8 @@
 <h3>YouTube</h3>
 <p>
 <a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
-[![How to my coding style using Neovim, tmux, iTerm2 with fish](http://img.youtube.com/vi/gsc0Mw8y-cY/0.jpg)](https://www.youtube.com/watch?v=gsc0Mw8y-cY)
+
+[![](https://img.youtube.com/vi/gsc0Mw8y-cY/0.jpg)](https://www.youtube.com/watch?v=gsc0Mw8y-cY)
 </p>
 
 <h3>Essay</h3>
