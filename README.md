@@ -9,7 +9,7 @@
 <h3>Diary</h3>
 <p>
 <a href="https://dialy.hisasann.dev/" target="_blank">日々の記録</a>
-<a href="https://www.notion.so/hisasann/4b3ac4a874724e20ab7d5b87edd9af22?v=f783121b5c074b72bff893c7cda511da&pvs=4" target="_blank">notion版</a>
+ （<a href="https://www.notion.so/hisasann/4b3ac4a874724e20ab7d5b87edd9af22?v=f783121b5c074b72bff893c7cda511da&pvs=4" target="_blank">notion版</a>）
 </p>
 
 <h3>Note</h3>
