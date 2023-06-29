@@ -34,10 +34,6 @@
 </p>
 </details>
 
-<h3>Instagram</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP9cmQqlURyknaltUNrcHNLJjVygXNyNlWwQne2A3TWdmahpEVuhWWNp3KDV0YUJENs9USmZnWYtERT5mRMllYYN1KKNDVapmW4gDUHFHcrxmarRDOahnavtiMl9kc65mWLp1cSJFM5ITUHVlQORVQBJDf8N3NwwHfu1EehZERlZjbrkDN0E0aqxWbqZFai92dBpGehRFZ5l3dad3ZK1ESINjbv5UcRZnYoNEU6hEeGZUZrlUMW9GWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTTpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3T1FFO4IXYYlVZJNDT4kFTsBnSKlza4pXMxNUSVNmNhdTVwREVCNFTUlFSwA1NSZkWUVDbWBHMJVzb5onZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3DMSM%2FcWZwpmL90zZCpWSFJTeqV2S1syd0skMWJDe1IGVh92SzRDcPZ1ZqFmSU5mQSBDR0pkcjZFVBZlWUpFWh9kUEFVekpGOaxUaQpUOH10ZNhTOQN2V1IDTyADeYxWVpxHfQBjYLdzUzN2SaNnUSBTOyE1RVJkTUFUQywHfzdDM8xnbNhXYGRUZ242K5QDNBtmas1maWhmYvFkSplTYktie5dnWRJVVPxHf352dzNHduJnY2NEU6hEeGZUZrlUMWNHWulne1ZnNHdmZpN0ZJFkaSZTc2E0cOpnY2dVR0REcjBlS4wWM4tkMjdUOFFEVKpWTvZDeqxmaPtid58GNhl3NxAHSwYnW0QEND12SSJmTTpXMvdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TslVT5A3TuplYZhkS6BzNr5mW1gzZGpmMnNUSYFWbxZDWkpHVJFmcUZmewA1KaZkWXVTMVJHNZdDckpmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;jEzPnVGcq5SP3ZFamdndHhVW0tWU050TxUHf8hUYrE0YEZjNJR3a5NkU0czRZNUSlVkYDljdu9kZUVXTD9Gf8l1ZxUTdKp1VPtCRmFTeCFVMxAVdVpVY25Gbr9Uc3JGenhjNNxWR50ERhJFSvp2b1sEasp0bjNja4Mje1k1c5FEbsF2UI9GOzFjZ0cmdkl0QrBXMFR1Y1V2UrVUWrwWWPdTbR12VRJXWxQmVVBzQoN0Z4RnZPVjNR1Ea6VEUF5WQQtyZ5MWTQZmdVFzduZnZQ50NtBDMKpGMHZHTOpWS8xnW0BHeTBDbMN1SyRXQKJTeOtEVzITT1BVSDdHdjVXY5gVevdUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3T192c582TzoVYw4GT4sGTrpWO1kDbKpGMnN0bVl1V2UDZsR0UJNkYRF2MVBVNWZkWRhWMW92dvRDckpmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/hisasann/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@hisasann!</a>.</p>
-
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/hisasann" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -90,13 +86,3 @@
     </tr>
   </tbody>
 </table>
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hisasann&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisasann" />
-  </a>
-</p>
-

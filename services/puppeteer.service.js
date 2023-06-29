@@ -106,12 +106,12 @@ var PuppeteerService = /** @class */ (function () {
         return __awaiter(this, void 0, void 0, function () {
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.page.close()];
+                    case 0: return [4 /*yield*/, this.page];
                     case 1:
-                        _a.sent();
-                        return [4 /*yield*/, this.browser.close()];
+                        (_a.sent()) && this.page.close();
+                        return [4 /*yield*/, this.browser];
                     case 2:
-                        _a.sent();
+                        (_a.sent()) && this.browser.close();
                         return [2 /*return*/];
                 }
             });

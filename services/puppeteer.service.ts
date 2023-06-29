@@ -41,8 +41,8 @@ class PuppeteerService {
   }
 
   async close() {
-    await this.page.close();
-    await this.browser.close();
+    await this.page && this.page.close();
+    await this.browser && this.browser.close();
   }
 
   /**

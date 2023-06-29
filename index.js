@@ -45,12 +45,12 @@ var Mustache = require("mustache");
 var fs = require("fs");
 var puppeteer_service_1 = require("./services/puppeteer.service");
 // mustache のテンプレートファイル
-var MUSTACHE_MAIN_DIR = './main.mustache';
+var MUSTACHE_MAIN_DIR = "./main.mustache";
 // mustache のリテラルに渡すデータ
 var DATA = {
-    img1: '',
-    img2: '',
-    img3: ''
+    img1: "",
+    img2: "",
+    img3: ""
 };
 // instagram のポストを取得する
 function setInstagramPosts(count) {
@@ -58,7 +58,7 @@ function setInstagramPosts(count) {
         var instagramImages;
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, puppeteer_service_1["default"].getLatestInstagramPostsFromAccount('hisasann', count)];
+                case 0: return [4 /*yield*/, puppeteer_service_1["default"].getLatestInstagramPostsFromAccount("hisasann", count)];
                 case 1:
                     instagramImages = _a.sent();
                     DATA.img1 = instagramImages[0];
@@ -79,7 +79,7 @@ function generateReadMe() {
                             if (err)
                                 throw err;
                             var output = Mustache.render(data.toString(), DATA);
-                            fs.writeFileSync('README.md', output);
+                            fs.writeFileSync("README.md", output);
                             resolve();
                         });
                     })];
@@ -98,17 +98,16 @@ function action() {
                 /**
                  * Get pictures
                  */
-                return [4 /*yield*/, setInstagramPosts(3)];
+                //await setInstagramPosts(3);
+                /**
+                 * Generate README
+                 */
+                return [4 /*yield*/, generateReadMe()];
                 case 1:
                     /**
                      * Get pictures
                      */
-                    _a.sent();
-                    /**
-                     * Generate README
-                     */
-                    return [4 /*yield*/, generateReadMe()];
-                case 2:
+                    //await setInstagramPosts(3);
                     /**
                      * Generate README
                      */
@@ -117,7 +116,7 @@ function action() {
                      * Fermeture de la boutique 👋
                      */
                     return [4 /*yield*/, puppeteer_service_1["default"].close()];
-                case 3:
+                case 2:
                     /**
                      * Fermeture de la boutique 👋
                      */
