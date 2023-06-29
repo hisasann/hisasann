@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Yoshiyuki Hisamatsu, Software developer from <b>Tokyo, Japan</b>.
 
-<h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3>
+<!-- <h3>Note, Blog, Podcast, YouTube, Essay, etc...</h3> -->
 <!-- <details> -->
 <!-- <summary>各種サービスへのリンク</summary> -->
 <h3>Note</h3>
