@@ -24,7 +24,7 @@
 
 <h3>YouTube</h3>
 <p>
-<a href="https://www.youtube.com/channel/UCtKoL7XV8B30Vz6y9b2C0PA" target="_blank">DJ lemon-Sour - YouTube</a>
+<a href="https://www.youtube.com/@djlemon-sourtech6770" target="_blank">DJ lemon-Sourのtech - YouTube</a>
 
 <h4>How to my coding style using Neovim, tmux, iTerm2 with fish</h4>
 
